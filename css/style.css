@@ -22,6 +22,7 @@ body {
 }
 
 .full-width-border {
+    width: 100%;
     border-bottom: lightcoral 3px solid;
 }
 
@@ -71,6 +72,14 @@ body {
     margin: auto;
     color: grey;
 }
+.info-box a{
+    text-decoration: none;
+    color: grey;
+    padding-bottom: 2px;
+}
+.info-box a:hover {
+    color: lightcoral;
+}
 .info-box img {
     width: 20px;
     height: 20px;
@@ -99,7 +108,6 @@ body {
     border-radius: 50%;
     margin-bottom: 20px;
 }
-
 .contact-info {
     width: 100%;
     padding-bottom: 10px;
@@ -153,9 +161,51 @@ body {
     margin: 0;
 }
 
-
-
 /* Media Queries */
+
+@media screen and (min-width: 769px) {
+
+    .container {
+        width: 80%;
+        margin: auto;
+        max-width: 1100px;
+    }
+
+    /* Header */
+    .main-header {
+        height: 680px;
+    }
+
+    .main-header-text {
+        padding-top: 75px;
+    }
+
+    .main-header-text h1 {
+        font-size: 4.5em;
+    }
+
+    .main-header-text h2 {
+        font-size: 2em;
+    }
+
+    /* Content */
+    .info-box {
+        width: 33%;
+        display: inline-block;
+        margin: -4px;
+    }
+
+    /* Contact */
+
+    .contact-about {
+        width: 60%;
+        margin: auto;
+    }
+    .contact-about img {
+        width: 375px;
+        height: 375px;
+    }
+}
 
 /*@media screen and (max-width: 880px){
 
