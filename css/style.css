@@ -202,59 +202,7 @@ body {
         margin: auto;
     }
     .contact-about img {
-        width: 375px;
-        height: 375px;
+        width: 325px;
+        height: 325px;
     }
 }
-
-/*@media screen and (max-width: 880px){
-
-    .main-header-text {
-        padding-top: 15%;
-    }
-
-    .main-header h1 {
-        font-size: 5em;
-    }
-
-    .main-header h2 {
-        font-size: 2em;
-    }
-
-}*/
-
-/*@media screen and (max-width: 660px) {
-
-
-
-    .main-header h1 {
-        font-size: 2.5em;
-    }
-    .main-header h2 {
-        font-size: 1.5em;
-    }
-    .main-footer {
-        height: 30px;
-        font-size: 0.75em;
-        padding: 2px 0 4px 0;
-    }
-    .contact-left {
-        width: 80%;
-        float: none;
-        margin: auto;
-        border-bottom: 2px rgba(34,34, 34, 0.2) solid;
-        padding-bottom: 30px;
-        border-right: none;
-    }
-    .contact-right {
-        width: 80%;
-        margin: auto;
-        float: none;
-        padding-top: 30px;
-    }
-}
-
-/* To-Do */
-/*
-
-*/
