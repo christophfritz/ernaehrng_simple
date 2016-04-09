@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../nutrition_website_simple/.idea/ernaehrng_simple.iml" filepath="$PROJECT_DIR$/../nutrition_website_simple/.idea/ernaehrng_simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ernaehrng_simple.iml" filepath="$PROJECT_DIR$/.idea/ernaehrng_simple.iml" />
     </modules>
   </component>
 </project>
