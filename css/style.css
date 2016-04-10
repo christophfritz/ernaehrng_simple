@@ -187,9 +187,9 @@ body {
     }
 
     /* Header */
-    .main-header {
+    /*.main-header {
         height: 680px;
-    }
+    }*/
 
     .main-header-text {
         padding-top: 75px;
