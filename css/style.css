@@ -87,8 +87,8 @@ body {
     color: lightcoral;
 }
 .info-box img {
-    width: 20px;
-    height: 20px;
+    width: 35px;
+    height: 35px;
     color: lightcoral;
 }
 
@@ -123,8 +123,8 @@ body {
 }
 
 .contact-about img {
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     border-radius: 50%;
     margin-bottom: 20px;
 }
