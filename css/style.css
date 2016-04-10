@@ -37,7 +37,7 @@ body {
 .main-header {
     width: 100%;
     height: 480px;
-    background: url("/img/food_hearts_opacity10%.jpeg") no-repeat;
+    background: url("../img/food_hearts_opacity10%.jpeg") no-repeat;
     background-size: cover;
 }
 .main-header-text {
