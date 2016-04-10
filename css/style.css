@@ -97,7 +97,7 @@ body {
 .nutrition-diary {
     width: 100%;
     min-height: 200px;
-    background: url("../img/food_much_opacity10%.jpeg") no-repeat;
+    background: url("../img/food_much_opacity10%25.jpeg") no-repeat;
     background-size: cover;
 }
 .nutrition-diary-text {
